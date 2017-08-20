@@ -1,0 +1,3 @@
+/home/andrew/Desktop/programming projects/ImageProcessor/CMakeFiles/edit_cache.dir
+/home/andrew/Desktop/programming projects/ImageProcessor/CMakeFiles/rebuild_cache.dir
+/home/andrew/Desktop/programming projects/ImageProcessor/CMakeFiles/vision.dir
