@@ -1,3 +1,6 @@
+// Code taken from Learning OpenCV 3 Application Development 
+// by Samyak Datta
+
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/core/core.hpp>
 #include <iostream>
